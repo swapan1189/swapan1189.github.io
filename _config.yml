@@ -1,2 +1,3 @@
 name: Swapan Singh, Aspiring Data Scientist
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
